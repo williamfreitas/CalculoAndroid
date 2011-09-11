@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AppSomaActivity!</string>
+    <string name="app_name">AppSoma</string>
+    <string name="num1">Entre com o primeiro Numero:</string>
+    <string name="num2">Entre com o segundo numero</string>
+    <string name="mais">+</string>
+    <string name="resultado">=</string>
+</resources>
